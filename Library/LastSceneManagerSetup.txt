@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Mapbox/Examples/8_VoxelMap/VoxelMap.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
