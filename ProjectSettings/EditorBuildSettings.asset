@@ -4,7 +4,15 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Mapbox/Examples/8_VoxelMap/VoxelMap.unity
+    guid: daabe3028a2c14661b829fff509af827
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: cae2f5e986713415588c266a98c1e9e5, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 254f6f8b34e3e4ef3b407a27b7916109, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3d458ff270bc74b0fb28011306d99780, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ef6b898169f944ccda7b995c7a926ef7, type: 2}
