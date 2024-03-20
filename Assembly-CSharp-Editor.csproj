@@ -23,7 +23,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp/bin/Debug/</OutputPath>
-    <DefineConstants>UNITY_2021_3_16;UNITY_2021_3;UNITY_2021;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_RUNTIME_PERMISSIONS;ENABLE_ENGINE_CODE_STRIPPING;ENABLE_ONSCREEN_KEYBOARD;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;PLATFORM_ANDROID;TEXTCORE_1_0_OR_NEWER;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;UNITY_CAN_SHOW_SPLASH_SCREEN;UNITY_HAS_GOOGLEVR;UNITY_HAS_TANGO;ENABLE_SPATIALTRACKING;ENABLE_ETC_COMPRESSION;PLATFORM_EXTENDS_VULKAN_DEVICE;PLATFORM_HAS_MULTIPLE_SWAPCHAINS;UNITY_ANDROID_SUPPORTS_SHADOWFILES;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_4_6;NET_UNITY_4_8;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;USE_INPUT_SYSTEM_POSE_CONTROL;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>UNITY_2021_3_16;UNITY_2021_3;UNITY_2021;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_RUNTIME_PERMISSIONS;ENABLE_ENGINE_CODE_STRIPPING;ENABLE_ONSCREEN_KEYBOARD;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;PLATFORM_ANDROID;TEXTCORE_1_0_OR_NEWER;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;UNITY_CAN_SHOW_SPLASH_SCREEN;UNITY_HAS_GOOGLEVR;UNITY_HAS_TANGO;ENABLE_SPATIALTRACKING;ENABLE_ETC_COMPRESSION;PLATFORM_EXTENDS_VULKAN_DEVICE;PLATFORM_HAS_MULTIPLE_SWAPCHAINS;UNITY_ANDROID_SUPPORTS_SHADOWFILES;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_4_6;NET_UNITY_4_8;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;USE_INPUT_SYSTEM_POSE_CONTROL;UNITY_POST_PROCESSING_STACK_V2;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169;USG0001</NoWarn>
@@ -58,106 +58,32 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/VectorFilterOptionsDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/ElevationRequiredOptionsDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Core/mapbox-sdk-cs/Tests/UnitTests/Editor/MapboxUnitTests_MapMatcher.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/MaterialListDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/UnityLayerOptionsDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Core/mapbox-sdk-cs/Tests/UnitTests/Editor/MapboxUnitTests_ReverseGeocodeResource.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/GeocodeAttributeDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Core/mapbox-sdk-cs/Tests/UnitTests/Editor/MapboxUnitTests_Geocoder.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/TerrainSideWallOptionsDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/ModifierStackEditor.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/SpawnPrefabOptionsDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/ElevationModificationOptionsDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/GeocodeAttributeSearchWindow.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/MapOptionsDrawer.cs" />
-    <Compile Include="Assets/Samples/OpenXR Plugin/1.5.3/Intercept Feature/Editor/InterceptFeatureInstaller.cs" />
-    <Compile Include="Assets/Mapbox/Core/cheap-ruler-cs/Tests/Editor/MapboxUnitTests_CheapRulerCs.cs" />
-    <Compile Include="Assets/Mapbox/Core/mapbox-sdk-cs/Tests/UnitTests/Editor/MapboxUnitTests_GeoCoordinate.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/MapLocationOptionsDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/TreeModel.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/ModelingSectionDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Core/mapbox-sdk-cs/Tests/UnitTests/Editor/MapboxUnitTests_FileSource.cs" />
-    <Compile Include="Assets/Mapbox/Core/mapbox-sdk-cs/Tests/UnitTests/Editor/MapboxUnitTests_PolylineToGeoCoordinateListConverter.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/Build/Mapbox_iOS_build.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/AtlasTemplateGenerator.cs" />
-    <Compile Include="Assets/Mapbox/Core/mapbox-sdk-cs/Tests/UnitTests/Editor/MapboxUnitTests_ForwardGeocodeResource.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/ElevationLayerPropertiesDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/VectorLayerPropertiesDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Core/mapbox-sdk-cs/Tests/UnitTests/Editor/MapboxUnitTests_CanonicalTileId.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/MapPlacementOptionsDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Core/mapbox-sdk-cs/Tests/UnitTests/Editor/MapboxUnitTests_Token.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/FeaturesSubLayerPropertiesDrawer.cs" />
     <Compile Include="Assets/ThirdPartyAssets/WoLfulus/LineEnding/Editor/LogEntries.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/TreeViewWithTreeModel.cs" />
-    <Compile Include="Assets/Mapbox/Core/mapbox-sdk-cs/Tests/UnitTests/Editor/MapboxUnitTests_PolylineUtils.cs" />
     <Compile Include="Assets/ThirdPartyAssets/WoLfulus/LineEnding/Editor/Enums.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/LayerSourceOptionsDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Core/mapbox-sdk-cs/Tests/UnitTests/Editor/MapboxUnitTests_DirectionResource.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/AddMonoBehavioursModifierDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/GeometryMaterialOptionsDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/LayerPerformanceOptionsDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/PrefabItemOptionsDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/PointsOfInterestSubLayerPropertiesDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Core/mapbox-sdk-cs/Tests/UnitTests/Editor/MapboxUnitTests_Compression.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/FeatureBehaviourEditor.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/ClearFileCache.cs" />
-    <Compile Include="Assets/Mapbox/Core/probe-extractor-cs/Tests/Editor/MapboxUnitTests_ProbeExtractorCs.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/ScriptableCreatorWindow.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/StyleSearchWindow.cs" />
-    <Compile Include="Assets/Mapbox/Core/mapbox-sdk-cs/Tests/UnitTests/Editor/MapboxUnitTests_Map.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/UnitTests/MapboxUnitTests_CircularBuffer.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/LineGeometryOptionsDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PointsOfInterestSubLayerTreeView.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/VectorSubLayerTreeView.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/FactoryEditor.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/ScriptablePaletteEditor.cs" />
-    <Compile Include="Assets/Samples/OpenXR Plugin/1.5.3/Meshing Subsystem Feature/Editor/MeshingFeatureInstaller.cs" />
-    <Compile Include="Assets/Mapbox/Core/mapbox-sdk-cs/Tests/UnitTests/Editor/MapboxUnitTests_TileResource.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/BehaviorModifiersSectionDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/ImageryRasterOptionsDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Core/mapbox-sdk-cs/Tests/UnitTests/Editor/MapboxUnitTests_Directions.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/MapScalingOptionsDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/ImageryLayerPropertiesDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/TerrainColliderOptionsDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/MapboxConfigurationWindow.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/MapExtentOptionsDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/StyleOptionsDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/ScenesListEditor.cs" />
-    <Compile Include="Assets/Mapbox/Core/mapbox-sdk-cs/Tests/UnitTests/Editor/MapboxUnitTests_AngleSmoothing.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/TreeElement.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/MaterialModifierEditor.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/MapManagerEditor.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/CoreVectorLayerPropertiesDrawer.cs" />
+    <Compile Include="Assets/Samples/ARCore Extensions/1.41.0/Geospatial Sample/Scripts/Editor/GeospatialPreprocessBuild.cs" />
     <Compile Include="Assets/ThirdPartyAssets/WoLfulus/LineEnding/Editor/FileMonitor.cs" />
-    <Compile Include="Assets/Mapbox/Core/mapbox-sdk-cs/Tests/UnitTests/Editor/MapboxUnitTests_TileJSON.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/GeometryExtrusionOptionsDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/TreeElementUtility.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/EditorHelper.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PopupSelectionMenu.cs" />
-    <Compile Include="Assets/Samples/OpenXR Plugin/1.5.3/Intercept Feature/Editor/InterceptCreateSessionFeatureEditor.cs" />
     <Compile Include="Assets/ThirdPartyAssets/WoLfulus/LineEnding/Editor/LogEntry.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/FeatureTreeElement.cs" />
-    <Compile Include="Assets/Mapbox/Core/mapbox-sdk-cs/Tests/UnitTests/Editor/MapboxUnitTests_TileCover.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/RangeAroundTransformTileProviderOptionsDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Core/mapbox-sdk-cs/Tests/UnitTests/Editor/MapboxUnitTests_VectorTile.cs" />
-    <Compile Include="Assets/Mapbox/Core/mapbox-sdk-cs/Tests/UnitTests/Editor/MapboxUnitTests_BearingFilter.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/FeatureSubLayerTreeView.cs" />
-    <Compile Include="Assets/Mapbox/Core/mapbox-sdk-cs/Tests/UnitTests/Editor/MapboxUnitTests_SQLiteCache.cs" />
-    <Compile Include="Assets/Mapbox/Core/mapbox-sdk-cs/Tests/UnitTests/Editor/MapboxUnitTests_Utils.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/FeatureSectionMultiColumnHeader.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/RangeTileProviderOptionsDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Core/mapbox-sdk-cs/Tests/UnitTests/Editor/MapboxUnitTests_Tile.cs" />
-    <Compile Include="Assets/Mapbox/Core/mapbox-sdk-cs/Tests/UnitTests/Editor/MapboxUnitTests_LonLatToGeoCoordinateConverter.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/StyleSearchAttributeDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/MapImageFactoryEditor.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/MergedModifierStackEditor.cs" />
-    <Compile Include="Assets/Mapbox/Core/mapbox-sdk-cs/Tests/UnitTests/Editor/MapboxUnitTests_GeoCoordinateBounds.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/CameraBoundsTileProviderOptionsDrawer.cs" />
-    <Compile Include="Assets/Mapbox/Core/mapbox-sdk-cs/Tests/UnitTests/Editor/MapboxUnitTests_BboxToGeoCoordinateBoundsConverter.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/LayerModifierEditor.cs" />
-    <Compile Include="Assets/Mapbox/Unity/Editor/PropertyDrawers/ColliderOptionsDrawer.cs" />
+    <Compile Include="Assets/ARLocation/Editor/LocationPropertyDataDrawer.cs" />
+    <Compile Include="Assets/ARLocation/Editor/ARLocationManagerInspector.cs" />
+    <Compile Include="Assets/ARLocation/Editor/ARLocationEditorConfigManager.cs" />
+    <Compile Include="Assets/ARLocation/Editor/ConditionalPropertyDrawer.cs" />
+    <Compile Include="Assets/ARLocation/Editor/LocationPathInspector.cs" />
+    <Compile Include="Assets/ARLocation/Mapbox Routes/Editor/RouteWaypointPropertyDrawer.cs" />
+    <Compile Include="Assets/ARLocation/Editor/DefineSymbols.cs" />
+    <Compile Include="Assets/ARLocation/Editor/ARLocationConfigInspector.cs" />
+    <Compile Include="Assets/ARLocation/Editor/GameObjectMenuItems.cs" />
+    <Compile Include="Assets/ARLocation/Editor/ARLocationProviderInspector.cs" />
+    <Compile Include="Assets/ARLocation/Editor/HotspotSettingsPropertyDrawer.cs" />
+    <Compile Include="Assets/ARLocation/Editor/OverrideAltitudeDataDrawer.cs" />
+    <Compile Include="Assets/ARLocation/Editor/DefineSymbolsManager.cs" />
+    <Compile Include="Assets/ARLocation/Mapbox Routes/Editor/RouteSettingsPropertyDrawer.cs" />
+    <Compile Include="Assets/ARLocation/Mapbox Routes/Editor/CustomRouteInspector.cs" />
+    <Compile Include="Assets/ARLocation/Mapbox Routes/Editor/GameObjectMenuItems.cs" />
+    <Compile Include="Assets/ARLocation/Editor/ARLocationOrientationInspector.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets/ExtensionsAssets/Editor/ARCoreiOSDependencies.xml" />
+    <None Include="Assets/ExtensionsAssets/Editor/ARCoreiOSGeospatialDependencies.xml" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -504,36 +430,28 @@
       <HintPath>/Applications/Unity/Hub/Editor/2021.3.16f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="MapboxAccountsUnity">
-      <HintPath>Assets/Mapbox/Core/Plugins/Mapbox/MapboxAccounts/net35/MapboxAccountsUnity.dll</HintPath>
+    <Reference Include="Google.VersionHandler">
+      <HintPath>Library/PackageCache/com.google.ar.core.arfoundation.extensions@7984b1776f/Editor/ExternalDependencyManager/Editor/Google.VersionHandler.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="log4netPlastic">
       <HintPath>Library/PackageCache/com.unity.collab-proxy@1.17.7/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Google.Protobuf">
+      <HintPath>Library/PackageCache/com.google.ar.core.arfoundation.extensions@7984b1776f/Editor/Scripts/Internal/Analytics/Google.Protobuf.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="ReportGeneratorMerged">
       <HintPath>Library/PackageCache/com.unity.testtools.codecoverage@1.2.2/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="zxing.unity">
-      <HintPath>Assets/ARDK/External/Plugins/zxing.unity.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Mapbox.Json">
-      <HintPath>Assets/Mapbox/Core/Plugins/ThirdParty/Mapbox.Json/Net35/Mapbox.Json.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Mapbox.VectorTile.VectorTileReader">
-      <HintPath>Assets/Mapbox/Core/Plugins/Mapbox/vector-tile-cs/net46/Mapbox.VectorTile.VectorTileReader.dll</HintPath>
+    <Reference Include="Google.JarResolver">
+      <HintPath>Library/PackageCache/com.google.ar.core.arfoundation.extensions@7984b1776f/Editor/ExternalDependencyManager/Editor/Google.JarResolver.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
       <HintPath>Library/PackageCache/com.unity.collab-proxy@1.17.7/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Mapbox.IO.Compression">
-      <HintPath>Assets/Mapbox/Core/Plugins/ThirdParty/Mapbox.IO.Compression/net35/Mapbox.IO.Compression.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
@@ -548,32 +466,48 @@
       <HintPath>Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Google.IOSResolver">
+      <HintPath>Library/PackageCache/com.google.ar.core.arfoundation.extensions@7984b1776f/Editor/ExternalDependencyManager/Editor/Google.IOSResolver.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.VisualScripting.IonicZip">
       <HintPath>Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Mapbox.VectorTile.ExtensionMethods">
-      <HintPath>Assets/Mapbox/Core/Plugins/Mapbox/vector-tile-cs/net46/Mapbox.VectorTile.ExtensionMethods.dll</HintPath>
+    <Reference Include="Unity.Burst.Cecil.Pdb">
+      <HintPath>Library/PackageCache/com.unity.burst@1.8.2/Unity.Burst.CodeGen/Unity.Burst.Cecil.Pdb.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Google.PackageManagerResolver">
+      <HintPath>Library/PackageCache/com.google.ar.core.arfoundation.extensions@7984b1776f/Editor/ExternalDependencyManager/Editor/Google.PackageManagerResolver.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Google.VersionHandlerImpl">
+      <HintPath>Library/PackageCache/com.google.ar.core.arfoundation.extensions@7984b1776f/Editor/ExternalDependencyManager/Editor/Google.VersionHandlerImpl.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.VisualScripting.YamlDotNet">
       <HintPath>Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Mapbox.VectorTile.PbfReader">
-      <HintPath>Assets/Mapbox/Core/Plugins/Mapbox/vector-tile-cs/net46/Mapbox.VectorTile.PbfReader.dll</HintPath>
+    <Reference Include="Unity.Burst.Cecil.Mdb">
+      <HintPath>Library/PackageCache/com.unity.burst@1.8.2/Unity.Burst.CodeGen/Unity.Burst.Cecil.Mdb.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="unityplastic">
       <HintPath>Library/PackageCache/com.unity.collab-proxy@1.17.7/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Mapbox.VectorTile.Geometry">
-      <HintPath>Assets/Mapbox/Core/Plugins/Mapbox/vector-tile-cs/net46/Mapbox.VectorTile.Geometry.dll</HintPath>
+    <Reference Include="Unity.Burst.Cecil">
+      <HintPath>Library/PackageCache/com.unity.burst@1.8.2/Unity.Burst.CodeGen/Unity.Burst.Cecil.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Burst.Cecil.Rocks">
+      <HintPath>Library/PackageCache/com.unity.burst@1.8.2/Unity.Burst.CodeGen/Unity.Burst.Cecil.Rocks.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="nunit.framework">
@@ -1088,6 +1022,22 @@
       <HintPath>/Applications/Unity/Hub/Editor/2021.3.16f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/Facades/netstandard.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Google.XR.ARCoreExtensions.GeospatialCreator">
+      <HintPath>Library/ScriptAssemblies/Google.XR.ARCoreExtensions.GeospatialCreator.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Google.XR.ARCoreExtensions.Editor">
+      <HintPath>Library/ScriptAssemblies/Google.XR.ARCoreExtensions.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Google.XR.ARCoreExtensions.GeospatialCreator.Editor">
+      <HintPath>Library/ScriptAssemblies/Google.XR.ARCoreExtensions.GeospatialCreator.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Google.XR.ARCoreExtensions">
+      <HintPath>Library/ScriptAssemblies/Google.XR.ARCoreExtensions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
@@ -1106,6 +1056,10 @@
       <Project>{0B08DD9C-D30A-C798-EED6-88D3A3DD765E}</Project>
       <Name>Unity.VSCode.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Universal.Shaders.csproj">
+      <Project>{E8B15D73-A549-9F88-9B11-886147401EAD}</Project>
+      <Name>Unity.RenderPipelines.Universal.Shaders</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.TextMeshPro.Editor.csproj">
       <Project>{F5EF9D9C-5780-8EC9-731D-BA458171C49C}</Project>
       <Name>Unity.TextMeshPro.Editor</Name>
@@ -1121,6 +1075,10 @@
     <ProjectReference Include="Unity.VisualScripting.State.Editor.csproj">
       <Project>{99FB8589-3973-7D6E-F728-7125B2E273A8}</Project>
       <Name>Unity.VisualScripting.State.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Searcher.Editor.csproj">
+      <Project>{5E47630B-A9DE-ABEE-F37F-5DAE421A3136}</Project>
+      <Name>Unity.Searcher.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.SettingsProvider.Editor.csproj">
       <Project>{DDFC41AF-1A6E-9E5C-C829-1DD7A8608359}</Project>
@@ -1150,6 +1108,10 @@
       <Project>{8680C1F9-576F-323B-3786-184B59D76E0E}</Project>
       <Name>Unity.Rider.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Core.ShaderLibrary.csproj">
+      <Project>{29181A2A-1968-FFEB-28DF-C31167096366}</Project>
+      <Name>Unity.RenderPipelines.Core.ShaderLibrary</Name>
+    </ProjectReference>
     <ProjectReference Include="UnityEngine.SpatialTracking.csproj">
       <Project>{E29F4DD7-BA27-F33F-B329-7D56268CF596}</Project>
       <Name>UnityEngine.SpatialTracking</Name>
@@ -1157,10 +1119,6 @@
     <ProjectReference Include="UnityEngine.UI.csproj">
       <Project>{307A092E-4F70-F5D7-5CEC-B46C420DACBC}</Project>
       <Name>UnityEngine.UI</Name>
-    </ProjectReference>
-    <ProjectReference Include="ControllerSample.csproj">
-      <Project>{AE9A288D-DCAE-1BFF-354D-943415945A87}</Project>
-      <Name>ControllerSample</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.EditorCoroutines.Editor.csproj">
       <Project>{3B3BA64E-5285-69EF-6C1D-DBA26829BD15}</Project>
@@ -1170,6 +1128,14 @@
       <Project>{3F14E010-A04B-0015-C165-BB84ECCD1144}</Project>
       <Name>Unity.XR.CoreUtils.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.ShaderGraph.Editor.csproj">
+      <Project>{DD37B144-D9E0-11D6-A1BE-738DF639FE44}</Project>
+      <Name>Unity.ShaderGraph.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipeline.Universal.ShaderLibrary.csproj">
+      <Project>{FFF6D6E5-6F75-9C50-61FC-AF915696DDC1}</Project>
+      <Name>Unity.RenderPipeline.Universal.ShaderLibrary</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.XR.ARSubsystems.Editor.csproj">
       <Project>{F94F526A-6B2C-8144-39F9-C7EC45F73386}</Project>
       <Name>Unity.XR.ARSubsystems.Editor</Name>
@@ -1178,9 +1144,9 @@
       <Project>{73BEC5E2-972A-689F-D26D-6CDAFB91DA93}</Project>
       <Name>Unity.XR.Management</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.XR.ARCore.csproj">
-      <Project>{835F974E-77FC-756E-52BB-8371EFAE7E03}</Project>
-      <Name>Unity.XR.ARCore</Name>
+    <ProjectReference Include="Unity.Mathematics.Editor.csproj">
+      <Project>{0C8859D3-6BC0-D371-503D-ABDD616CF81B}</Project>
+      <Name>Unity.Mathematics.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.ARSubsystems.csproj">
       <Project>{7C22729F-78AE-7DE1-5264-67A25164CC88}</Project>
@@ -1194,21 +1160,25 @@
       <Project>{242E8A85-6805-2131-B0F8-4BFA996CA9BD}</Project>
       <Name>Unity.XR.ARFoundation.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.XR.ARCore.csproj">
+      <Project>{835F974E-77FC-756E-52BB-8371EFAE7E03}</Project>
+      <Name>Unity.XR.ARCore</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Flow.Editor.csproj">
       <Project>{CF78517C-5971-30F8-E8F9-DCB3F346F0DF}</Project>
       <Name>Unity.VisualScripting.Flow.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="ARDK-Editor.csproj">
-      <Project>{21A2CCEA-C30A-0F11-0D07-9E3041F1F2FD}</Project>
-      <Name>ARDK-Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.ARKit.csproj">
       <Project>{D33E50BB-F1D7-167E-5DC6-7AFC10D897FA}</Project>
       <Name>Unity.XR.ARKit</Name>
     </ProjectReference>
-    <ProjectReference Include="ARDK.csproj">
-      <Project>{34C471EC-A972-3721-2895-73A3C73FD124}</Project>
-      <Name>ARDK</Name>
+    <ProjectReference Include="Unity.RenderPipelines.Universal.Runtime.csproj">
+      <Project>{E007422B-E44A-700F-5C33-5E227C5E9483}</Project>
+      <Name>Unity.RenderPipelines.Universal.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="PPv2URPConverters.csproj">
+      <Project>{1C66E4A5-26E7-E6F7-1C0C-CCC2D4B6D2DE}</Project>
+      <Name>PPv2URPConverters</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualStudio.Editor.csproj">
       <Project>{1C3FF7D7-FC8B-06D1-87FC-2FF1B441B604}</Project>
@@ -1234,25 +1204,29 @@
       <Project>{7C9DF74E-B56F-5545-7CCC-6C7217144CCF}</Project>
       <Name>Unity.TextMeshPro</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.XR.Interaction.Toolkit.csproj">
-      <Project>{B9948073-E9C2-D264-DEAC-1C71D1B7C90E}</Project>
-      <Name>Unity.XR.Interaction.Toolkit</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.XR.Management.Samples.Editor.csproj">
-      <Project>{E5E3099D-C2AB-223B-D60F-8ADD706A2063}</Project>
-      <Name>Unity.XR.Management.Samples.Editor</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Core.Editor.csproj">
       <Project>{A8DB3046-A345-9C0F-0A4C-97BA3FD31D4A}</Project>
       <Name>Unity.VisualScripting.Core.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="Niantic.Titan.Uploader.csproj">
-      <Project>{C20C1A77-F5C7-A72C-555E-FDC4B93AA67A}</Project>
-      <Name>Niantic.Titan.Uploader</Name>
+    <ProjectReference Include="Unity.Burst.Editor.csproj">
+      <Project>{99A27FC1-39BD-1B20-063B-602FAEA068A7}</Project>
+      <Name>Unity.Burst.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.XR.Interaction.Toolkit.csproj">
+      <Project>{B9948073-E9C2-D264-DEAC-1C71D1B7C90E}</Project>
+      <Name>Unity.XR.Interaction.Toolkit</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Core.Runtime.csproj">
+      <Project>{EDE27B76-DF73-2CA0-2E0B-62D42D1BDBD5}</Project>
+      <Name>Unity.RenderPipelines.Core.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Subsystem.Registration.csproj">
       <Project>{0C232994-DF04-C321-DE0F-066F4C6E4464}</Project>
       <Name>Unity.Subsystem.Registration</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Postprocessing.Editor.csproj">
+      <Project>{CBAAE1D6-9792-BFAA-8872-26B109F1C1F5}</Project>
+      <Name>Unity.Postprocessing.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Flow.csproj">
       <Project>{A37BEE9A-AC34-C847-1B48-C52C6B9ADEA9}</Project>
@@ -1274,9 +1248,25 @@
       <Project>{37111635-3DCA-A699-655C-060699D37A81}</Project>
       <Name>Unity.VisualScripting.Core</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.Mathematics.csproj">
+      <Project>{D4770400-7CE5-096D-BF6E-BC0FDB5E77A4}</Project>
+      <Name>Unity.Mathematics</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.Services.Core.Analytics.csproj">
       <Project>{0EC62A72-07AC-2708-A25A-7015F920E341}</Project>
       <Name>Unity.Services.Core.Analytics</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Burst.csproj">
+      <Project>{AA321357-269B-5AFF-356C-82EBBE309C43}</Project>
+      <Name>Unity.Burst</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Postprocessing.Runtime.csproj">
+      <Project>{3368691D-FC5C-4602-4EAD-7A3639142727}</Project>
+      <Name>Unity.Postprocessing.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Universal.Editor.csproj">
+      <Project>{936B9DF5-2662-FD69-C945-4D20F60C0F54}</Project>
+      <Name>Unity.RenderPipelines.Universal.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.XR.LegacyInputHelpers.csproj">
       <Project>{14841918-E9D7-02EE-EC5C-65807267107F}</Project>
@@ -1286,13 +1276,13 @@
       <Project>{34344689-208D-8BB8-5B68-DBB47C593C51}</Project>
       <Name>Unity.VisualScripting.Shared.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.XR.OpenXR.Editor.csproj">
-      <Project>{30347082-E1AC-20F1-1CC6-DBCEB029D3A6}</Project>
-      <Name>Unity.XR.OpenXR.Editor</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.Services.Core.Environments.csproj">
       <Project>{435654F7-8363-C687-28BA-46A09C93FCB8}</Project>
       <Name>Unity.Services.Core.Environments</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.XR.OpenXR.Editor.csproj">
+      <Project>{30347082-E1AC-20F1-1CC6-DBCEB029D3A6}</Project>
+      <Name>Unity.XR.OpenXR.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Timeline.Editor.csproj">
       <Project>{0879306E-5AE3-2911-B80F-8B6D75D250B8}</Project>
@@ -1302,13 +1292,13 @@
       <Project>{289C4A13-8632-70EA-BC7D-E91672195315}</Project>
       <Name>Unity.XR.CoreUtils</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.csproj">
+      <Project>{E2D3F6CF-BD98-670F-2254-99762115A8DC}</Project>
+      <Name>Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary</Name>
+    </ProjectReference>
     <ProjectReference Include="UnityEditor.XR.LegacyInputHelpers.csproj">
       <Project>{3E4B55BD-C60E-4020-45E6-AF8E552C265E}</Project>
       <Name>UnityEditor.XR.LegacyInputHelpers</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.XR.Management.Samples.csproj">
-      <Project>{A0974774-C1F0-946B-93E3-7D2D78C48DB2}</Project>
-      <Name>Unity.XR.Management.Samples</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.OpenXR.csproj">
       <Project>{30FCDD2E-AB1E-0259-EF32-47AFDEADFDE2}</Project>
@@ -1330,6 +1320,10 @@
       <Project>{727CCCA7-3075-AA94-7D6E-601E949C832D}</Project>
       <Name>Unity.XR.OpenXR.Features.ConformanceAutomation</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Core.Editor.csproj">
+      <Project>{08787035-0B14-6402-E6AC-E6D3A8C9B160}</Project>
+      <Name>Unity.RenderPipelines.Core.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.csproj">
       <Project>{EC78C95B-A612-12D2-E0FD-2F4FF9EE1D63}</Project>
       <Name>Unity.XR.OpenXR.Features.RuntimeDebugger.Editor</Name>
@@ -1341,6 +1335,58 @@
     <ProjectReference Include="Unity.XR.ARFoundation.csproj">
       <Project>{D458CC36-94EE-1961-7917-89D0ABD3397F}</Project>
       <Name>Unity.XR.ARFoundation</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.AdaptivePerformance.Editor.csproj">
+      <Project>{944A0600-AE05-6224-336E-89BCB6D1AA6D}</Project>
+      <Name>Unity.AdaptivePerformance.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.AdaptivePerformance.csproj">
+      <Project>{0D005789-FE7C-D912-5BD1-7D68EEC833AC}</Project>
+      <Name>Unity.AdaptivePerformance</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Profiling.Core.csproj">
+      <Project>{72ABADC5-D2A2-4391-67C9-162F56694A84}</Project>
+      <Name>Unity.Profiling.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.AdaptivePerformance.Simulator.Extension.csproj">
+      <Project>{CBDDC63A-79E4-63C9-833E-9D1E2EFDD0A5}</Project>
+      <Name>Unity.AdaptivePerformance.Simulator.Extension</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.AdaptivePerformance.UI.Editor.csproj">
+      <Project>{3E7C3D08-2701-88B2-A422-1A56ACFDF68A}</Project>
+      <Name>Unity.AdaptivePerformance.UI.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.AdaptivePerformance.Simulator.Editor.csproj">
+      <Project>{A43D12C8-BDF8-B1F7-1013-F22696E06D39}</Project>
+      <Name>Unity.AdaptivePerformance.Simulator.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.AdaptivePerformance.Profiler.Editor.csproj">
+      <Project>{EF47BF21-1F3B-839B-00D1-3FB8E2C9B737}</Project>
+      <Name>Unity.AdaptivePerformance.Profiler.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.AdaptivePerformance.Samsung.Android.Editor.csproj">
+      <Project>{9DEC8999-7BA4-948D-EF2B-544A2149E716}</Project>
+      <Name>Unity.AdaptivePerformance.Samsung.Android.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.AdaptivePerformance.Simulator.VRR.Extension.csproj">
+      <Project>{914EC5B9-C19C-F339-0292-6843AC9F9677}</Project>
+      <Name>Unity.AdaptivePerformance.Simulator.VRR.Extension</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.AdaptivePerformance.Samsung.Android.csproj">
+      <Project>{68D7B72F-260B-3A7C-A3F8-19617DDBDB5C}</Project>
+      <Name>Unity.AdaptivePerformance.Samsung.Android</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.AdaptivePerformance.Google.Android.Editor.csproj">
+      <Project>{CFF3E332-C8AB-8486-8BBC-5D749F9B40D5}</Project>
+      <Name>Unity.AdaptivePerformance.Google.Android.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.AdaptivePerformance.Google.Android.csproj">
+      <Project>{19C0EE65-507C-6A56-9419-32E821392E32}</Project>
+      <Name>Unity.AdaptivePerformance.Google.Android</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.AdaptivePerformance.Simulator.Google.Extension.csproj">
+      <Project>{A1196513-CF75-4644-4F89-72DD5CA592EA}</Project>
+      <Name>Unity.AdaptivePerformance.Simulator.Google.Extension</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)/Microsoft.CSharp.targets" />

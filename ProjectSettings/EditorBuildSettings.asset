@@ -5,14 +5,18 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Mapbox/Examples/8_VoxelMap/VoxelMap.unity
-    guid: daabe3028a2c14661b829fff509af827
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/ARLocation/Samples/ARLocation 3D Text.unity
+    guid: 5c043518199ea024ead87bc2f9450641
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: cae2f5e986713415588c266a98c1e9e5, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 254f6f8b34e3e4ef3b407a27b7916109, type: 2}
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 12e6a659525d146e7b6397c247903841, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: baef5d9b844754a7cb5b3ff5abfe48ad, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 65cda28d314354618923f0180a6b9140, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: ebc4d26b5f4404164a897a0e89af5f56, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3d458ff270bc74b0fb28011306d99780, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ef6b898169f944ccda7b995c7a926ef7, type: 2}

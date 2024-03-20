@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{FB5F5E48-47DE-8776-2C2F-B9A0F8A44D76}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ARLocation/Scripts/Components/Hotspot.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LabelMapping.cs" />
+      <File FileName="Assets/ARLocation/Scripts/ARSession/ARFoundationSessionManager.cs" Line="77" Column="23" />
+      <File FileName="Assets/ARLocation/Scripts/Components/Hotspot.cs" Line="179" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EliteCADDesign-Construction" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="ARLocation" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Components" expanded="True">
+                    <Node name="Hotspot.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="ExtensionsAssets" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="53a96be6-9d4b-4185-a14c-1615e9276b75" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
